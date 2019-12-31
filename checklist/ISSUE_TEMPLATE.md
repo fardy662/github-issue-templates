@@ -1,6 +1,6 @@
 # Please follow the general troubleshooting steps first:
 
-- [ ] Ran ?
+- [X] Ran ?
 - [ ] Ran ?
 - [ ] If you're seeing permission errors ?
 
